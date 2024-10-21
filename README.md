@@ -12,9 +12,12 @@ This application is a vim "controller" built on top of AutoHotKey v2 that allows
 ## Movements 
 | Key | Action |
 | ------------- | -------------- |
-| k | UP |
-| ------------- | -------------- |
-| j | DOWN |
+| k | Move Up |
+| j | Move Down |
+| h | Move Left |
+| l | Move Right |
+| Shift + w | Next Word|
+| Shift + b | Previous Word|
 
 - k → UP
 - j → DOWN
