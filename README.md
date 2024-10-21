@@ -27,5 +27,4 @@ This application is a vim "controller" built on top of AutoHotKey v2 that allows
 | Shift + a | Enter Insert Mode at the end of the line |
 
 enable/disable WinVim
-`Windows + Capslock`
 > Windows + Capslock
