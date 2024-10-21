@@ -9,7 +9,7 @@ This application is a vim "controller" built on top of AutoHotKey v2 that allows
 - Run the .exe file
 
 # Features 
-## Movements 
+### Movements 
 | Key | Action |
 | ------------- | -------------- |
 | k | Move Up |
@@ -19,16 +19,13 @@ This application is a vim "controller" built on top of AutoHotKey v2 that allows
 | Shift + w | Next Word|
 | Shift + b | Previous Word|
 
-- k → UP
-- j → DOWN
-- h → LEFT
-- l → RIGHT
-- Shift + w → Next word
-- Shift + b → Previous word
-
-- Change modes
-    - Capslock → Enter Normal mode
-    - i → Enter Insert mode
+### Change modes
+| Capslock | Enter Normal Mode |
+| ------------- | -------------- |
+| i | Enter Insert Mode |
+| Shift + i | Enter Insert Mode at the begining of the line |
+| Shift + a | Enter Insert Mode at the end of the line |
 
 enable/disable WinVim
-Windows + Capslock
+`Windows + Capslock`
+> Windows + Capslock
