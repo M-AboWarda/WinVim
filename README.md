@@ -8,3 +8,15 @@ This application is a vim "controller" built on top of AutoHotKey v2 that allows
 - Compile WinVim.ahk using AutoHotKey software v2
 - Run the .exe file
 
+# Features 
+- Movements 
+    - k → UP
+    - j → DOWN
+    - h → LEFT
+    - l → RIGHT
+    - Shift + w → Next word
+    - Shift + b → Previous word
+
+- Change modes
+    - Capslock → Enter Normal mode
+    - i → Enter Insert mode
