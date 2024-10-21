@@ -76,18 +76,18 @@ q::
 }
 
 ; free the memory and destroy the gui element
-x::
-{
-    global isCurrentStateNormalMode
-    if(isCurrentStateNormalMode){
-        global StatusBar, SBLine
-        StatusBar.Destroy()
-        SBLine.Destroy()
-    }else{
-        send("{Blind}{Text}x")
-    }
-    return
-}
+; x::
+; {
+;     global isCurrentStateNormalMode
+;     if(isCurrentStateNormalMode){
+;         global StatusBar, SBLine
+;         StatusBar.Destroy()
+;         SBLine.Destroy()
+;     }else{
+;         send("{Blind}{Text}x")
+;     }
+;     return
+; }
 
 
 k:: 
